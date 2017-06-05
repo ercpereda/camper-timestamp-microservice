@@ -1,0 +1,24 @@
+{
+  "name": "timestamp",
+  "version": "1.0.0",
+  "description": "freeCodeCamp Timestamp Microservice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "ercpereda",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ercpereda/camper-timestamp-microservice.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ercpereda/camper-timestamp-microservice/issues"
+  },
+  "homepage": "https://github.com/ercpereda/camper-timestamp-microservice#readme"
+}
