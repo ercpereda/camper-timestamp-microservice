@@ -3,7 +3,7 @@
 ## Run test
 
 ```bash
-$ npm run test
+$ npm run tests
 ```
 
 ## Execute Sever
